@@ -1,11 +1,10 @@
 #include <stdio.h>
-
-int main() {
-
-   // printf() displays the string inside quotation
-   //
-   //    printf("Programming is like building a multilingual puzzle");
-   //
-   //       return 0;
-   //
-   //       }}
+/**
+ * main - Entry point
+ *
+ * Return: ALWAYS 0 (Success)
+ */
+int main(void)
+{puts ("\"programming is like building a multilingual puzzle");
+	return (0);
+}
